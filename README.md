@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nash-app-nash-mcp-badge.png)](https://mseep.ai/app/nash-app-nash-mcp)
+
 # Nash MCP Server
 
 Nash MCP (a Model Context Protocol (MCP) server) enables seamless execution of commands, Python code, web content fetching, and reusable task management.
